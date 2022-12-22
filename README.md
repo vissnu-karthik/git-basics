@@ -1,1 +1,1 @@
-# git-basics by karthik
+# git-basics by karthik in direct
